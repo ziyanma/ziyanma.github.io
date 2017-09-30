@@ -605,3 +605,8 @@ ul.social-buttons {
   .btn-xl .badge {
     color: #fed136;
     background-color: white; }
+
+.experience-buttons{
+  margin-bottom: 80px;  }
+  .experience-buttons .btn{
+  width: 200px}
