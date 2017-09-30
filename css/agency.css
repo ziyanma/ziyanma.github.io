@@ -38,6 +38,13 @@ section {
     margin-bottom: 75px;
     text-transform: none;
     font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  section h3.section-subheading-short {
+      font-size: 16px;
+      font-weight: 400;
+      font-style: italic;
+      margin-bottom: 15px;
+      text-transform: none;
+      font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 @media (min-width: 768px) {
   section {
@@ -370,12 +377,12 @@ header.masthead {
     left: 50%; }
   .timeline > li {
     min-height: 100px;
-    margin-bottom: 100px; }
+    margin-bottom: 50px; }
     .timeline > li .timeline-panel {
       float: left;
       width: 41%;
       padding: 0 20px 20px 30px;
-      text-align: right; }
+      text-align: left; }
     .timeline > li .timeline-image {
       left: 50%;
       width: 100px;
