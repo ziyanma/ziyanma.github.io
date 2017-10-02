@@ -178,6 +178,9 @@ header.masthead {
     max-width: 400px;
     margin: 0 auto;
     cursor: pointer; }
+  #portfolio .img-fluid{
+    height: 263px;
+    width: 350px; }
     #portfolio .portfolio-item .portfolio-link .portfolio-hover {
       position: absolute;
       width: 100%;
@@ -233,7 +236,7 @@ header.masthead {
 .portfolio-modal .modal-content {
   min-height: 100%;
   padding: 100px 0;
-  text-align: center;
+  text-align: left;
   border: none;
   border-radius: 0;
   background-clip: border-box;
