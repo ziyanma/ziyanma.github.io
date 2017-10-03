@@ -178,8 +178,12 @@ header.masthead {
     max-width: 400px;
     margin: 0 auto;
     cursor: pointer; }
+  #portfolio .img-fluid-wrapper{
+    height: 263px!important;
+    height: 350px;
+    overflow: hidden; }
   #portfolio .img-fluid{
-    height: 263px;
+    height: auto;
     width: 350px; }
     #portfolio .portfolio-item .portfolio-link .portfolio-hover {
       position: absolute;
